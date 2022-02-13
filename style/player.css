@@ -1,0 +1,28 @@
+:root{
+    
+    --preto:#141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--preto);
+    font-family:  Times, serif;
+    color: white;
+}
+
+.container{
+    margin: 30px;
+}
+
+.player{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    
+}
